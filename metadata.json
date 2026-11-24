@@ -1,0 +1,7 @@
+{
+  "name": "ARTEMIS: The Bio-AI Assistant",
+  "description": "A visually stunning AI assistant specialized in plants, forestry, agriculture, and biotechnology, featuring a futuristic, nature-inspired UI with glassmorphism effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
